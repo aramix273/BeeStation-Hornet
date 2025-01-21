@@ -4,6 +4,7 @@ on:
     branches:
     - master
     - 'project/**'
+    - 'dummy-pr'
   pull_request:
     branches:
     - master
